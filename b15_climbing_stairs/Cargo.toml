@@ -1,5 +1,5 @@
 [package]
-name = "b5_maxsubarray"
+name = "b15_climbing_stairs"
 version = "0.1.0"
 edition = "2021"
 
